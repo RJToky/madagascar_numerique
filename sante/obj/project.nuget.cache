@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOS6wjKGcSbGfwx8p7vWQz1uCDkdIHJoC6QAGxPkky6lLKIdDEgaQj+CMXPKVqm0Or+cxERj5vezmCtVbY+ACg==",
+  "success": true,
+  "projectFilePath": "D:\\ITU\\S5\\Mr Tahina\\madagascar_numerique\\sante\\sante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tokyr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tokyr\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

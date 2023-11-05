@@ -1,0 +1,4 @@
+sante -> .net, postgres
+banque -> java, mysql
+foncier -> java, postgres
+primature -> java
